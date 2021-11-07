@@ -30,3 +30,6 @@
 # 案例一：设计立方体类
 需求如下：<br><br>
 <img src="./figures/设计立方体类.png"/>
+<br><br>
+实现结果如下：<br><br>
+<img src="./figures/设计立方体类实现结果.png"/>
